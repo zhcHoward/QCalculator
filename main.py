@@ -14,4 +14,4 @@ if __name__ == "__main__":
     engine = QQmlApplicationEngine(qml_file)
 
     # execute
-    exit(app.exec_())
+    sys.exit(app.exec_())
