@@ -1,0 +1,1 @@
+pyinstaller --add-data="view.qml:." --windowed -y -n QCalculator main.py
